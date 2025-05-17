@@ -8,7 +8,7 @@ import { AuthProvider } from "./contexts/AuthContext";
 import { DashboardLayout } from "./components/layout/DashboardLayout";
 
 // Pages
-import Login from "./pages/Login";
+import Login from "./pages/login";
 import ForgotPassword from "./pages/ForgotPassword";
 import Dashboard from "./pages/Dashboard";
 import NotFound from "./pages/NotFound";
